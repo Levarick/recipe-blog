@@ -36,7 +36,6 @@
 ## Overview
 
 - You can see my demo on GitHub Pages
-- I learned how make a hamburguer menu using CSS and JavaScript 
 
 
 ## Features
