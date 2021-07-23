@@ -93,6 +93,13 @@ ol li p:nth-child(1) {
     font-size: 1.6rem;
     max-width: 549px;
   }
+
+  aside section div:nth-child(2) {
+    justify-content: center;
+  }
+  aside section div:nth-child(3) {
+    justify-content: flex-end;
+  }
 }
 @media (min-width: 1200px) {
   main > div > div {

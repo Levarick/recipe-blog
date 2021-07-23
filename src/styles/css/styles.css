@@ -76,14 +76,6 @@ main img {
   border-radius: 12px;
 }
 
-.material-icons {
-  font-size: 30px;
-}
-
-.orange {
-  color: orange;
-}
-
 aside {
   display: flex;
   flex-direction: column;
@@ -111,6 +103,14 @@ aside section p:nth-child(1) {
 aside section P:nth-child(2) {
   font-size: 1.2rem;
   font-weight: 500;
+}
+
+.material-icons {
+  font-size: 30px;
+}
+
+.orange {
+  color: orange;
 }
 
 div article h4 {
@@ -165,6 +165,13 @@ ol li p:nth-child(1) {
   li p {
     font-size: 1.6rem;
     max-width: 549px;
+  }
+
+  aside section div:nth-child(2) {
+    justify-content: center;
+  }
+  aside section div:nth-child(3) {
+    justify-content: flex-end;
   }
 }
 @media (min-width: 1200px) {
