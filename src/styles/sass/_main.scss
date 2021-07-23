@@ -5,13 +5,6 @@ main {
   }
 }
 
-.material-icons {
-  font-size: 30px;
-}
-
-.orange {
-  color: orange;
-}
 aside {
   display: flex;
   flex-direction: column;
@@ -39,6 +32,14 @@ aside {
       font-weight: 500;
     }
   }
+}
+
+.material-icons {
+  font-size: 30px;
+}
+
+.orange {
+  color: orange;
 }
 
 
